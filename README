@@ -1,1 +1,7 @@
 Semplice coppia di programmi client e server
+
+Per compilare il server: gcc server.c -o server
+Per avviarlo: ./server
+
+Per compilare il client: gcc client.c -o client
+Per avviarlo: ./client
